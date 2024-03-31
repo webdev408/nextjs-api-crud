@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). In this app, an example is presented to illustrate how nextjs can be efficient in carrying interactivity like post, delete and add functionalities. This app has tailwind css and daisy ui for design. It shows nextjs is a complete framework which does not need thrd party libraries to achieve a smooth and full function UI/UX.
 
 ## Getting Started
 
